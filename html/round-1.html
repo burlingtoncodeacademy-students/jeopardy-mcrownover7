@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeopardy Round 1</title>
+    <!-- linking stylesheet -->
+    <link rel="stylesheet" href="../styles/styles.css" />
+</head>
+
+<body>
+    <header>
+        <h1>
+            Jeopardy; First Round
+        </h1>
+    </header>
+    <!-- creating the jeopardy board -->
+    <div id="jeopardyBoard">
+        <div id="jeopardyBoxCategory">Category</div>
+        <div id="jeopardyBoxCategory">Category</div>
+        <div id="jeopardyBoxCategory">Category</div>
+        <div id="jeopardyBoxCategory">Category</div>
+        <div id="jeopardyBoxCategory">Category</div>
+        <div id="jeopardyBoxCategory">Category</div>
+        <div id="jeopardyBox">$100</div>
+        <div id="jeopardyBox">$100</div>
+        <div id="jeopardyBox">$100</div>
+        <div id="jeopardyBox">$100</div>
+        <div id="jeopardyBox">$100</div>
+        <div id="jeopardyBox">$100</div>
+        <div id="jeopardyBox">$200</div>
+        <div id="jeopardyBox">$200</div>
+        <div id="jeopardyBox">$200</div>
+        <div id="jeopardyBox">$200</div>
+        <div id="jeopardyBox">$200</div>
+        <div id="jeopardyBox">$200</div>
+        <div id="jeopardyBox">$300</div>
+        <div id="jeopardyBox">$300</div>
+        <div id="jeopardyBox">$300</div>
+        <div id="jeopardyBox">$300</div>
+        <div id="jeopardyBox">$300</div>
+        <div id="jeopardyBox">$300</div>
+        <div id="jeopardyBox">$400</div>
+        <div id="jeopardyBox">$400</div>
+        <div id="jeopardyBox">$400</div>
+        <div id="jeopardyBox">$400</div>
+        <div id="jeopardyBox">$400</div>
+        <div id="jeopardyBox">$400</div>
+        <div id="jeopardyBox">$500</div>
+        <div id="jeopardyBox">$500</div>
+        <div id="jeopardyBox">$500</div>
+        <div id="jeopardyBox">$500</div>
+        <div id="jeopardyBox">$500</div>
+        <div id="jeopardyBox">$500</div>
+    </div>
+    <!-- adding an input and response buttons for user answer or passing -->
+    <div id="userResponse">
+        <input type="text" id="answer" name="answer" placeholder="What is... ?">
+        <div id="responseButtons">
+            <button class="guessResponse" onclick="window.location.href='round-1.html';">Guess</button>
+            <button class="passResponse" onclick="window.location.href='round-1.html';">Pass</button>
+        </div>
+    </div>
+    <!-- adding a score section, that will be updated later -->
+    <div id="scoreline">
+        <div id="player1Score">
+            Player 1: ~
+        </div>
+        <div id="player2Score">
+            Player 2: ~
+        </div>
+    </div>
+    <br>
+    <!-- linking to round 2 -->
+    <footer>
+        <a href="round-2.html">Round 2 --></a>
+    </footer>
+</body>
+
+</html>

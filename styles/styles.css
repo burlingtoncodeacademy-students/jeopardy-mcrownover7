@@ -1,0 +1,223 @@
+/* setting the margin for the body of each page */
+body {
+  margin: 50px;
+  background-color: whitesmoke;
+}
+
+/* styling the header */
+header {
+  background-color: #003b59;
+  padding: 20px 0px;
+}
+
+h1 {
+  text-align: center;
+  color: whitesmoke;
+  font-size: 5vw;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* styling the button default state and hover */
+.startGame {
+  background-color: #003b59;
+  color: whitesmoke;
+  padding: 15px 30px;
+  text-align: center;
+  display: inline-block;
+  font-size: 2.5vw;
+  width: 25vw;
+  align-self: center;
+}
+
+.startGame:hover {
+  border: #003b59;
+  color: #003b59;
+  background-color: lightslategray;
+}
+
+/* styling the logo */
+.logo {
+  object-fit: contain;
+  width: 60vw;
+}
+
+/* styling the audio */
+audio {
+  display: block;
+  margin: 0 auto;
+  width: 50vw;
+}
+
+/* homepage wrapper with the logo and start button */
+#homepageWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0px;
+}
+
+/* styling the jeopardy board for both round 1 and 2 */
+#jeopardyBoard {
+  display: grid;
+  margin-top: 20px;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  border: 5px solid #000;
+  height: 50vw;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+#jeopardyBoxCategory {
+  border: 1px solid #000;
+  text-align: center;
+  font-size: 2vw;
+  height: 100%;
+}
+
+#jeopardyBox {
+  border: 1px solid #000;
+  text-align: center;
+  height: 100%;
+  font-size: 2vw;
+}
+
+/* styling the user response input field and response buttons */
+#userResponse {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  flex-direction: column;
+}
+
+#answer {
+  display: inline-block;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#responseButtons {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+/* styling the guess and pass buttons default state and hover for round 1 and round 2 */
+.guessResponse {
+  background-color: #003b59;
+  color: whitesmoke;
+  padding: 10px 20px;
+  margin-right: 5px;
+  text-align: center;
+  display: inline-block;
+  font-size: 2.5vw;
+  width: 15vw;
+  align-self: center;
+}
+
+.guessResponse:hover {
+  border: #003b59;
+  color: #003b59;
+  background-color: lightslategray;
+}
+
+.passResponse {
+  background-color: #003b59;
+  color: whitesmoke;
+  padding: 10px 20px;
+  margin-left: 5px;
+  text-align: center;
+  display: inline-block;
+  font-size: 2.5vw;
+  width: 15vw;
+  align-self: center;
+}
+
+.passResponse:hover {
+  border: #003b59;
+  color: #003b59;
+  background-color: lightslategray;
+}
+
+/* styling the player scores */
+#player1Score {
+  float: left;
+  margin-left: 50px;
+}
+
+#player2Score {
+  float: right;
+  margin-right: 50px;
+}
+
+/* styling the footer (which is a link to the next page) */
+footer {
+  float: right;
+  margin-top: 25px;
+  margin-right: 25px;
+}
+
+/* styling the flex container for the category and question for final jeopardy */
+#finalJeopardyCategory {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  align-items: center;
+  border: 5px solid #000;
+  margin: 50px;
+}
+
+#finalCategory {
+  border: 1px solid #000;
+  width: 100%;
+  text-align: center;
+}
+
+#finalQuestion {
+  border: 1px solid #000;
+  width: 100%;
+  text-align: center;
+  padding: 50px 0px;
+}
+
+/* styling the user response options for the final jeopardy flex container */
+#userResponseFinal {
+  display: flex;
+  flex-direction: row;
+  width: auto;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0px 50px;
+}
+
+#amountFinal {
+  text-align: center;
+  padding: 10px 0px;
+}
+
+#answerFinal {
+  text-align: center;
+  padding: 10px 0px;
+}
+
+/* final jeopardy bet response button and hover styles */
+.betResponse {
+  background-color: #003b59;
+  color: whitesmoke;
+  padding: 10px 20px;
+  margin-right: 5px;
+  text-align: center;
+  display: inline-block;
+  font-size: 2.5vw;
+  width: 15vw;
+  align-self: center;
+}
+
+.betResponse:hover {
+  border: #003b59;
+  color: #003b59;
+  background-color: lightslategray;
+}
