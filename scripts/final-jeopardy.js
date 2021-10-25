@@ -50,20 +50,20 @@ fetch("/JSON/gadgets.json")
   .then((res) => res.json())
   .then((jsonGadgets) => {
     //utilizing a Fisher-Yates Shuffle to randomize the order of the objects in the json array
-    function shuffle(array) {
-      let currentIndex = array.length,
+    function shuffle(myArray) {
+      let currentIndex = myArray.length,
         randomIndex;
 
       while (currentIndex != 0) {
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex--;
 
-        [array[currentIndex], array[randomIndex]] = [
-          array[randomIndex],
-          array[currentIndex],
+        [myArray[currentIndex], myArray[randomIndex]] = [
+          myArray[randomIndex],
+          myArray[currentIndex],
         ];
       }
-      return array;
+      return myArray;
     }
     //setting the corrected (randomized) array
     jsonGadgetsCorrected = shuffle(jsonGadgets);

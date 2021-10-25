@@ -83,20 +83,20 @@ fetch("/JSON/musicals-theatres.json")
   .then((res) => res.json())
   .then((jsonMusical) => {
     //utilizing a Fisher-Yates Shuffle to randomize the order of the objects in the json array
-    function shuffle(array) {
-      let currentIndex = array.length,
+    function shuffle(myArray) {
+      let currentIndex = myArray.length,
         randomIndex;
 
       while (currentIndex != 0) {
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex--;
 
-        [array[currentIndex], array[randomIndex]] = [
-          array[randomIndex],
-          array[currentIndex],
+        [myArray[currentIndex], myArray[randomIndex]] = [
+          myArray[randomIndex],
+          myArray[currentIndex],
         ];
       }
-      return array;
+      return myArray;
     }
     //setting the corrected (randomized) array
     jsonMusicalCorrected = shuffle(jsonMusical);
@@ -110,20 +110,20 @@ fetch("/JSON/mythology.json")
   .then((res) => res.json())
   .then((jsonMythology) => {
     //utilizing a Fisher-Yates Shuffle to randomize the order of the objects in the json array
-    function shuffle(array) {
-      let currentIndex = array.length,
+    function shuffle(myArray) {
+      let currentIndex = myArray.length,
         randomIndex;
 
       while (currentIndex != 0) {
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex--;
 
-        [array[currentIndex], array[randomIndex]] = [
-          array[randomIndex],
-          array[currentIndex],
+        [myArray[currentIndex], myArray[randomIndex]] = [
+          myArray[randomIndex],
+          myArray[currentIndex],
         ];
       }
-      return array;
+      return myArray;
     }
     jsonMythologyCorrected = shuffle(jsonMythology);
     //NOTE: returning from JSON fetch is difficult, but will be available shortly after page load (ie in event listener)
@@ -136,20 +136,20 @@ fetch("/JSON/science-nature.json")
   .then((res) => res.json())
   .then((jsonScience) => {
     //utilizing a Fisher-Yates Shuffle to randomize the order of the objects in the json array
-    function shuffle(array) {
-      let currentIndex = array.length,
+    function shuffle(myArray) {
+      let currentIndex = myArray.length,
         randomIndex;
 
       while (currentIndex != 0) {
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex--;
 
-        [array[currentIndex], array[randomIndex]] = [
-          array[randomIndex],
-          array[currentIndex],
+        [myArray[currentIndex], myArray[randomIndex]] = [
+          myArray[randomIndex],
+          myArray[currentIndex],
         ];
       }
-      return array;
+      return myArray;
     }
     jsonScienceCorrected = shuffle(jsonScience);
     //NOTE: returning from JSON fetch is difficult, but will be available shortly after page load (ie in event listener)
@@ -162,20 +162,20 @@ fetch("/JSON/sports.json")
   .then((res) => res.json())
   .then((jsonSports) => {
     //utilizing a Fisher-Yates Shuffle to randomize the order of the objects in the json array
-    function shuffle(array) {
-      let currentIndex = array.length,
+    function shuffle(myArray) {
+      let currentIndex = myArray.length,
         randomIndex;
 
       while (currentIndex != 0) {
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex--;
 
-        [array[currentIndex], array[randomIndex]] = [
-          array[randomIndex],
-          array[currentIndex],
+        [myArray[currentIndex], myArray[randomIndex]] = [
+          myArray[randomIndex],
+          myArray[currentIndex],
         ];
       }
-      return array;
+      return myArray;
     }
     jsonSportsCorrected = shuffle(jsonSports);
     //NOTE: returning from JSON fetch is difficult, but will be available shortly after page load (ie in event listener)
@@ -188,20 +188,20 @@ fetch("/JSON/television.json")
   .then((res) => res.json())
   .then((jsonTelevision) => {
     //utilizing a Fisher-Yates Shuffle to randomize the order of the objects in the json array
-    function shuffle(array) {
-      let currentIndex = array.length,
+    function shuffle(myArray) {
+      let currentIndex = myArray.length,
         randomIndex;
 
       while (currentIndex != 0) {
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex--;
 
-        [array[currentIndex], array[randomIndex]] = [
-          array[randomIndex],
-          array[currentIndex],
+        [myArray[currentIndex], myArray[randomIndex]] = [
+          myArray[randomIndex],
+          myArray[currentIndex],
         ];
       }
-      return array;
+      return myArray;
     }
     jsonTelevisionCorrected = shuffle(jsonTelevision);
     //NOTE: returning from JSON fetch is difficult, but will be available shortly after page load (ie in event listener)
@@ -214,20 +214,20 @@ fetch("/JSON/video-games.json")
   .then((res) => res.json())
   .then((jsonVideoGames) => {
     //utilizing a Fisher-Yates Shuffle to randomize the order of the objects in the json array
-    function shuffle(array) {
-      let currentIndex = array.length,
+    function shuffle(myArray) {
+      let currentIndex = myArray.length,
         randomIndex;
 
       while (currentIndex != 0) {
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex--;
 
-        [array[currentIndex], array[randomIndex]] = [
-          array[randomIndex],
-          array[currentIndex],
+        [myArray[currentIndex], myArray[randomIndex]] = [
+          myArray[randomIndex],
+          myArray[currentIndex],
         ];
       }
-      return array;
+      return myArray;
     }
     jsonVideoGamesCorrected = shuffle(jsonVideoGames);
     //NOTE: returning from JSON fetch is difficult, but will be available shortly after page load (ie in event listener)
