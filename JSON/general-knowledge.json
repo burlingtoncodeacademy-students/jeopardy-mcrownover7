@@ -1,0 +1,178 @@
+[
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which river flows through the Scottish city of Glasgow?",
+    "correct_answer": "Clyde",
+    "incorrect_answers": ["Tay", "Dee", "Tweed"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How would one say goodbye in Spanish?",
+    "correct_answer": "Adi&oacute;s",
+    "incorrect_answers": [" Hola", "Au Revoir", "Salir"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+    "correct_answer": "Tango",
+    "incorrect_answers": ["Target", "Taxi", "Turkey"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which American president appears on a one dollar bill?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "Benjamin Franklin"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which language is NOT Indo-European?",
+    "correct_answer": "Hungarian",
+    "incorrect_answers": ["Russian", "Greek", "Latvian"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?",
+    "correct_answer": "Bullfighting",
+    "incorrect_answers": ["Fiestas", "Flamenco", "Mariachi"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the Swedish word for &quot;window&quot;?",
+    "correct_answer": "F&ouml;nster",
+    "incorrect_answers": ["H&aring;l", "Sk&auml;rm", "Ruta"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+    "correct_answer": "Big Mouth Billy Bass",
+    "incorrect_answers": ["Big Billy Bass", "Singing Fish", "Sardeen"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which product did Nokia, the telecommunications company, originally sell?",
+    "correct_answer": "Paper",
+    "incorrect_answers": ["Phones", "Computers", "Processors"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+    "correct_answer": "I came, I saw, I conquered",
+    "incorrect_answers": [
+      "See no evil, hear no evil, speak no evil",
+      "Life, liberty, and happiness",
+      "Past, present, and future"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Who founded the Khan Academy?",
+    "correct_answer": "Sal Khan",
+    "incorrect_answers": ["Ben Khan", "Kitt Khan", "Adel Khan"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Earl Grey tea is black tea flavoured with what?",
+    "correct_answer": "Bergamot oil",
+    "incorrect_answers": ["Lavender", "Vanilla", "Honey"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following is the IATA code for Manchester Airport?",
+    "correct_answer": "MAN",
+    "incorrect_answers": ["EGLL", "LHR", "EGCC"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the highest number of Michelin stars a restaurant can receive?",
+    "correct_answer": "Three",
+    "incorrect_answers": ["Four", "Five", "Six"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+    "correct_answer": "Peace",
+    "incorrect_answers": ["Physics", "Economics", "Physiology/Medicine"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who is the youngest person to recieve a Nobel Prize?",
+    "correct_answer": "Malala Yousafzai",
+    "incorrect_answers": [
+      "Lawrence Bragg",
+      "Werner Heisenberg",
+      "Yasser Arafat"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following is not an Ivy League University?",
+    "correct_answer": "Stanford",
+    "incorrect_answers": ["University of Pennsylvania", "Harvard", "Princeton"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+    "correct_answer": "Modernism",
+    "incorrect_answers": ["Neoclassical", "Baroque", "Gothic Revival"]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Frank Lloyd Wright was the architect behind what famous building?",
+    "correct_answer": "The Guggenheim",
+    "incorrect_answers": [
+      "Villa Savoye",
+      "Sydney Opera House",
+      "The Space Needle"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who invented the first ever chocolate bar, in 1847?",
+    "correct_answer": "Joseph Fry",
+    "incorrect_answers": ["Andrew Johnson", "John Cadbury", "John Tyler"]
+  }
+]

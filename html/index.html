@@ -11,6 +11,7 @@
 </head>
 
 <body>
+    
     <header>
         <h1>
             Welcome to Jeopardy!
@@ -19,18 +20,18 @@
     <div id="homepageWrapper">
         <!-- adding jeopardy logo -->
         <div id="homepageImage">
-            <img src="../images/jeopardy-1024x578.jpeg" class="logo" alt="Jeopardy Planet Logo" />
+            <img src="../images/jeopardy-1024x578.jpeg" id="logo" alt="Jeopardy Planet Logo" />
         </div>
         <!-- adding a button to start the game -->
-        <button class="startGame" onclick="window.location.href='round-1.html';">Start Game!</button>
+        <button id="startGame">Start Game!</button>
     </div>
     <!-- adding the jeopardy theme song audio -->
-    <!-- note that autoplay may no longer be supported in chrome, see  https://developer.chrome.com/blog/autoplay/ for more information. If the user interacts with the domain (plays the game then goes back to homepage) it will start autoplaying-->
     <figure id="audio">
         <audio controls autoplay loop>
             <source src="../audio/Jeopardy-theme-song.mp3" type="audio/mp3">
         </audio>
     </figure>
+    <script src='/scripts/index.js'></script>
 </body>
 
 </html>

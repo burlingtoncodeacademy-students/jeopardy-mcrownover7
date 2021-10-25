@@ -1,0 +1,182 @@
+[
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The seed drill was invented by which British inventor?",
+    "correct_answer": "Jethro Tull",
+    "incorrect_answers": ["Charles Babbage", "Isaac Newton", "J.J Thomson"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "With which Greek philosopher would you associate the phrase, &quot;I know that I know nothing&quot;?",
+    "correct_answer": "Socrates",
+    "incorrect_answers": ["Aristotle", "Plato", "Pythagoras"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The idea of Socialism was articulated and advanced by whom?",
+    "correct_answer": "Karl Marx",
+    "incorrect_answers": ["Vladimir Lenin", "Joseph Stalin", "Vladimir Putin"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was the capital of South Vietnam before the Vietnam War?",
+    "correct_answer": "Saigon",
+    "incorrect_answers": ["Ho Chi Minh City", "Hanoi", "Hue"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following African countries was most successful in resisting colonization?",
+    "correct_answer": "Ethiopia",
+    "incorrect_answers": ["C&ocirc;te d&rsquo;Ivoire", "Congo", "Namibia"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which famous world leader is famed for the saying, &quot;Let them eat cake&quot;, yet is rumored that he/she never said it at all?",
+    "correct_answer": "Marie Antoinette",
+    "incorrect_answers": ["Czar Nicholas II", "Elizabeth I", "Henry VIII"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "On which day did construction start on &quot;The Pentagon&quot;, the headquarters for the United States Department of Defense?",
+    "correct_answer": "September 11, 1941",
+    "incorrect_answers": [
+      "June 15, 1947",
+      "January 15, 1943",
+      "September 2, 1962"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In which year did the Tokyo Subway Sarin Attack occur?",
+    "correct_answer": "1995",
+    "incorrect_answers": ["2001", "2011", "1991"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the real name of the Albanian national leader Skanderbeg?",
+    "correct_answer": "Gjergj Kastrioti",
+    "incorrect_answers": [
+      "Diturak Zhulati",
+      "Iskander Bejko",
+      "Mirash Krasniki"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What were the first states to break away from Yugoslavia?",
+    "correct_answer": "Slovenia, Croatia",
+    "incorrect_answers": [
+      "Macedonia, Montenegro",
+      "Slovenia, Macedonia",
+      "Montenegro, Slovenia"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which building was set aflame on August 24th, 1812?",
+    "correct_answer": "The White House",
+    "incorrect_answers": [
+      "Parliament Building",
+      "Grand National Assembly Building",
+      "Palace of the Nation"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was Genghis Khan&#039;s real name?",
+    "correct_answer": "Tem&uuml;jin",
+    "incorrect_answers": ["M&ouml;ngke", "&Ouml;gedei", "Tem&uuml;r"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+    "correct_answer": "The Mayans",
+    "incorrect_answers": ["The Incas", "The Aztecs", "The Navajos"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "When was the city of Rome, Italy founded?",
+    "correct_answer": "753 BCE",
+    "incorrect_answers": ["902 BCE", "524 BCE", "697 BCE"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who is attributed credit for recording the epic poem The Odyssey?",
+    "correct_answer": "Homer",
+    "incorrect_answers": ["Aristotle", "Odysseus", "Socrates"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year did the First World War end?",
+    "correct_answer": "1918",
+    "incorrect_answers": ["1914", "1916", "1912"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+    "correct_answer": "The Polish President",
+    "incorrect_answers": ["Pope John Paul II", "Bang-Ding Ow", "Albert Putin"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which year was Constantinople conquered by the Turks?",
+    "correct_answer": "1453",
+    "incorrect_answers": ["1435", "1454", "1440"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+    "correct_answer": "George Washington",
+    "incorrect_answers": ["Abraham Lincoln", "Thomas Jefferson", "James Monroe"]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them?",
+    "correct_answer": "Siege of Petersburg",
+    "incorrect_answers": [
+      "Siege of Vicksburg",
+      "Antietam Campaign",
+      "Gettysburg Campagin"
+    ]
+  }
+]
