@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeopardy Homepage</title>
+    <!-- linking stylesheet -->
+    <link rel="stylesheet" href="../styles/styles.css" />
+</head>
+
+<body>
+    
+    <header>
+        <h1>
+            Welcome to Jeopardy!
+        </h1>
+    </header>
+    <div id="homepageWrapper">
+        <!-- adding jeopardy logo -->
+        <div id="homepageImage">
+            <img src="../images/jeopardy-1024x578.jpeg" id="logo" alt="Jeopardy Planet Logo" />
+        </div>
+        <!-- adding a button to start the game -->
+        <button id="startGame">Start Game!</button>
+    </div>
+    <!-- adding the jeopardy theme song audio -->
+    <figure id="audio">
+        <audio controls autoplay loop>
+            <source src="../audio/Jeopardy-theme-song.mp3" type="audio/mp3">
+        </audio>
+    </figure>
+    <script src='/scripts/index.js'></script>
+</body>
+
+</html>

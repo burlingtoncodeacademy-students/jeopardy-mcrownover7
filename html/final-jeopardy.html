@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final Jeopardy</title>
+    <!-- linking stylesheet -->
+    <link rel="stylesheet" href="../styles/styles.css" />
+</head>
+
+<body>
+    <header>
+        <h1>
+            Final Jeopardy
+        </h1>
+    </header>
+    <!-- creating the question field for final jeopardy -->
+    <div id="finalJeopardyCategory">
+        <div id="finalCategory">
+            <h3>Gadgets</h3>
+        </div>
+        <div id="finalQuestion">Final Jeopardy Question</div>
+    </div>
+    <!-- creating a user response field for the amount bet and their answer -->
+    <div id="userResponseFinal">
+        <input type="text" id="amountFinal" name="amount" placeholder="Wagered Amount">
+        <input type="text" id="answerFinal" name="answer" placeholder="What is... ?">
+    </div>
+    <div id="responseButtons">
+        <button id="betResponse">Bet!</button>
+    </div>
+    <div id="scoreline">
+        <h3>Player Scores</h3>
+        <!-- <ul id='playerScores'></ul> -->
+        <div id='playerOneName'></div>
+        <div id='playerOneScore'></div>
+        <div id='playerTwoName'></div>
+        <div id='playerTwoScore'></div>
+        <div id='playerThreeName'></div>
+        <div id='playerThreeScore'></div>
+        <div id='playerFourName'></div>
+        <div id='playerFourScore'></div>
+    </div>
+
+    <script src='/scripts/final-jeopardy.js'></script>
+</body>
+
+</html>

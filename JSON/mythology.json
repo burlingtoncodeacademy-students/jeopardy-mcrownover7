@@ -1,0 +1,170 @@
+[
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Talos, the mythical giant bronze man, was the protector of which island?",
+    "correct_answer": "Crete",
+    "incorrect_answers": ["Sardinia", "Sicily", "Cyprus"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who was the only god from Greece who did not get a name change in Rome?",
+    "correct_answer": "Apollo",
+    "incorrect_answers": ["Demeter", "Zeus", "Athena"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "This Greek mythological figure is the god/goddess of battle strategy (among other things).",
+    "correct_answer": "Athena",
+    "incorrect_answers": ["Ares", "Artemis", "Apollo"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",
+    "correct_answer": "A Horse",
+    "incorrect_answers": ["A Dragon", "A Tiger", "A Lion"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Hera is god of...",
+    "correct_answer": "Marriage",
+    "incorrect_answers": ["Agriculture", "Sea", "War"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following Mesopotamian mythological figures was NOT a deity?",
+    "correct_answer": "Enkidu",
+    "incorrect_answers": ["Enki", "Enlil", "Enkimdu"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Greek Mythology, who was the daughter of King Minos?",
+    "correct_answer": "Ariadne",
+    "incorrect_answers": ["Athena", "Ariel", "Alana"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+    "correct_answer": "Nidhogg",
+    "incorrect_answers": ["Bragi", "Odin", "Ymir"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?",
+    "correct_answer": "Janus",
+    "incorrect_answers": ["Vulcan", "Juno", "Mars"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Greek Mythology, who killed Achilles?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["Hector", "Helen", "Pericles"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?",
+    "correct_answer": "Orpheus",
+    "incorrect_answers": ["Hercules", "Perseus", "Daedalus"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Nidhogg is a mythical creature from what mythology?",
+    "correct_answer": "Norse",
+    "incorrect_answers": ["Egyptian", "Greek", "Hindu"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In Greek mythology, who is the god of wine?",
+    "correct_answer": "Dionysus",
+    "incorrect_answers": ["Hephaestus", "Demeter", "Apollo"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+    "correct_answer": "Centaur",
+    "incorrect_answers": ["Minotaur", "Pegasus", "Gorgon"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What mythology did the god &quot;Apollo&quot; come from?",
+    "correct_answer": "Greek and Roman",
+    "incorrect_answers": [
+      "Roman and Spanish",
+      "Greek and Chinese",
+      "Greek, Roman and Norse"
+    ]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+    "correct_answer": "Spider",
+    "incorrect_answers": ["Wild dog", "Monkey", "Crocodile"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which Norse God has a horse named Sleipnir?",
+    "correct_answer": "Odin",
+    "incorrect_answers": ["Thor", "Frigg", "Balder"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The Norse god Odin has two pet crows named &quot;Huginn&quot; and &quot;Muninn&quot;.  What do their names mean?",
+    "correct_answer": "Thought &amp; Memory",
+    "incorrect_answers": [
+      "Power &amp; Peace",
+      "War &amp; Learning",
+      "Sleeping &amp; Waking"
+    ]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which greek god/goddess tossed a golden apple with the words &quot;for the fairest&quot; into the middle of the feast of the gods?",
+    "correct_answer": "Eris",
+    "incorrect_answers": ["Hades", "Ares", "Artemis"]
+  },
+  {
+    "category": "Mythology",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Hel was the daughter of which Norse Mythological figure?",
+    "correct_answer": "Loki",
+    "incorrect_answers": ["Thor", "Odin", "Balder"]
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following authors was not born in England? ",
+    "correct_answer": "Arthur Conan Doyle",
+    "incorrect_answers": ["Graham Greene", "H G Wells", "Arthur C Clarke"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Beatrix Potter books, what type of animal is Tommy Brock?",
+    "correct_answer": "Badger",
+    "incorrect_answers": ["Fox", "Frog", "Rabbit"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is Hermione Granger&#039;s middle name?",
+    "correct_answer": "Jean",
+    "incorrect_answers": ["Jane", "Emma", "Jo"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is Ron Weasley&#039;s middle name?",
+    "correct_answer": "Bilius",
+    "incorrect_answers": ["Arthur", "John", "Dominic"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who wrote the children&#039;s story &quot;The Little Match Girl&quot;?",
+    "correct_answer": "Hans Christian Andersen",
+    "incorrect_answers": ["Charles Dickens", "Lewis Carroll", "Oscar Wilde"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Under what pseudonym did Stephen King publish five novels between 1977 and 1984?",
+    "correct_answer": "Richard Bachman",
+    "incorrect_answers": ["J. D. Robb", "Mark Twain", "Lewis Carroll"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The novel &quot;Jane Eyre&quot; was written by what author? ",
+    "correct_answer": "Charlotte Bront&euml;",
+    "incorrect_answers": [
+      "Emily Bront&euml;",
+      "Jane Austen",
+      "Louisa May Alcott"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The novel &quot;Of Mice And Men&quot; was written by what author? ",
+    "correct_answer": "John Steinbeck ",
+    "incorrect_answers": ["George Orwell", "Mark Twain ", "Harper Lee"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Who wrote the young adult novel &quot;The Fault in Our Stars&quot;?",
+    "correct_answer": "John Green",
+    "incorrect_answers": [
+      "Stephenie Meyer",
+      "Suzanne Collins",
+      "Stephen Chbosky"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "J.K. Rowling completed &quot;Harry Potter and the Deathly Hallows&quot; in which hotel in Edinburgh, Scotland?",
+    "correct_answer": "The Balmoral",
+    "incorrect_answers": [
+      "The Dunstane Hotel",
+      "Hotel Novotel",
+      "Sheraton Grand Hotel &amp; Spa"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The title of Adolf Hitler&#039;s autobiography &quot;Mein Kampf&quot; is what when translated to English?",
+    "correct_answer": "My Struggle",
+    "incorrect_answers": ["My Hatred", "My Sadness", "My Desire"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?",
+    "correct_answer": "A Study in Scarlet",
+    "incorrect_answers": [
+      "The Sign of the Four",
+      "A Case of Identity",
+      "The Doings of Raffles Haw"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...",
+    "correct_answer": "42",
+    "incorrect_answers": ["Loving everyone around you", "Chocolate", "Death"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",
+    "correct_answer": "The Greasers",
+    "incorrect_answers": ["The Outsiders", "The Mafia", "The Socs"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of Sherlock Holmes&#039;s brother?",
+    "correct_answer": "Mycroft Holmes",
+    "incorrect_answers": [
+      "Mederi Holmes",
+      "Martin Holmes",
+      "Herbie Hancock Holmes"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",
+    "correct_answer": "Ulgrotha",
+    "incorrect_answers": ["Bant", "Llanowar", "Tazeem"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Alice in Wonderland, what is the name of Alice&#039;s kitten?",
+    "correct_answer": "Dinah",
+    "incorrect_answers": ["Oscar", "Heath", "Smokey"]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?",
+    "correct_answer": "A Clash of Kings",
+    "incorrect_answers": [
+      "A Dance with Dragons",
+      "A Storm of Swords",
+      "A Feast for Crows"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following is not a work authored by Fyodor Dostoevsky?",
+    "correct_answer": "Anna Karenina",
+    "incorrect_answers": [
+      "Notes from the Underground",
+      "Crime and Punishment",
+      "The Brothers Karamazov"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which Russian author wrote the epic novel War and Peace?",
+    "correct_answer": "Leo Tolstoy",
+    "incorrect_answers": [
+      "Fyodor Dostoyevsky",
+      "Alexander Pushkin",
+      "Vladimir Nabokov"
+    ]
+  }
+]

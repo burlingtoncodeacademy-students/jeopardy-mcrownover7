@@ -1,0 +1,182 @@
+[
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?",
+    "correct_answer": "Radar",
+    "incorrect_answers": ["Hawkeye", "Hot Lips", "Trapper"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which company has exclusive rights to air episodes of the &quot;The Grand Tour&quot;?",
+    "correct_answer": "Amazon",
+    "incorrect_answers": ["Netflix", "BBC", "CCTV"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?",
+    "correct_answer": "Pencilvester",
+    "incorrect_answers": ["Beth Smith", "Summer Smith", "Mr. Poopy Butthole"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
+    "correct_answer": "Blue Sky",
+    "incorrect_answers": ["Baby Blue", "Rock Candy", "Pure Glass"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?",
+    "correct_answer": "Should I Stay or Should I Go?",
+    "incorrect_answers": [
+      "Love Will Tear Us Apart",
+      "This Charming Man",
+      "Africa"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these television shows makes everyone look under their chair?",
+    "correct_answer": "Oprah",
+    "incorrect_answers": ["Jimmy Fallon", "Saturday Night Live", "Larry Rubert"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;The Big Bang Theory&quot;, what is Howard Wolowitz&#039;s nickname in World of Warcraft?",
+    "correct_answer": "Wolowizard",
+    "incorrect_answers": ["Sheldor", "Rajesh", "Priya"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Star Trek, what is the name of Spock&#039;s father?",
+    "correct_answer": "Sarek",
+    "incorrect_answers": ["Tuvok", "T&#039;Pal", "Surak"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these Disney shows is classified as an anime?",
+    "correct_answer": "Stitch!",
+    "incorrect_answers": [
+      "Cory in the House",
+      "The Emperor&#039;s New School",
+      "Hannah Montana"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Donkey Kong Country&quot;, why does Donkey Kong want to know the secret of the crystal coconut?",
+    "correct_answer": "He&#039;s the big kahuna.",
+    "incorrect_answers": [
+      "To find out where all the bananas are.",
+      "Because Diddy Kong forced him.",
+      "He wants to punish brutes."
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?",
+    "correct_answer": "Stef&aacute;n Stef&aacute;nsson",
+    "incorrect_answers": [
+      "Adam Sandler",
+      "Magn&uacute;s Scheving",
+      "Stephen Carl"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In &quot;Star Trek&quot;, who was the founder of the Klingon Empire and its philosophy?",
+    "correct_answer": "Kahless the Unforgettable",
+    "incorrect_answers": [
+      "Lady Lukara of the Great Hall",
+      "Molor the Unforgiving",
+      "Dahar Master Kor"
+    ]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What was Nickelodeon&#039;s original name?",
+    "correct_answer": "Pinwheel",
+    "incorrect_answers": ["MTVKids", "KidsTV", "Splat!"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the inflatable duck sacrified to the crowd at the end of Episode 34 of the 18th season of Big Brother?",
+    "correct_answer": "Pablo",
+    "incorrect_answers": ["Esteban", "Carlos", "Duckster"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The HBO series &quot;Game of Thrones&quot; is based on which series of books?",
+    "correct_answer": "A Song of Ice and Fire",
+    "incorrect_answers": ["The Wheel of Time", "Harry Potter", "The Notebook"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?",
+    "correct_answer": "Finders Keepers",
+    "incorrect_answers": ["Double Dare", "Nickelodeon Guts", "Nick Arcade"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these Nickelodeon game shows aired first?",
+    "correct_answer": "Double Dare",
+    "incorrect_answers": ["Nick Arcade", "Finders Keepers", "Nickelodeon Guts"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
+    "correct_answer": "Jonah Hill",
+    "incorrect_answers": ["Jason Segel", "Seth Rogen", "James Franco"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The fictional movie &#039;Rochelle, Rochelle&#039; features in which sitcom?",
+    "correct_answer": "Seinfeld",
+    "incorrect_answers": ["Frasier", "Cheers", "Friends"]
+  },
+  {
+    "category": "Entertainment: Television",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the show &quot;The Office&quot; who does Michael Scott eventually end up with?",
+    "correct_answer": "Holly Flax",
+    "incorrect_answers": ["Angela Martin", "Jan Levinson", "Pam Beesly"]
+  }
+]

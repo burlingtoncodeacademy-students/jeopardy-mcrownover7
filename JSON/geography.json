@@ -1,0 +1,174 @@
+[
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these countries is &quot;doubly landlocked&quot; (surrounded entirely by one or more landlocked countries)?",
+    "correct_answer": "Uzbekistan",
+    "incorrect_answers": ["Switzerland", "Bolivia", "Ethiopia"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest non-continental island in the world?",
+    "correct_answer": "Greenland",
+    "incorrect_answers": ["New Guinea", "Borneo", "Madagascar"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which country does Austria not border?",
+    "correct_answer": "France",
+    "incorrect_answers": ["Slovenia", "Switzerland", "Slovakia"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which European city has the highest mileage of canals in the world?",
+    "correct_answer": "Birmingham",
+    "incorrect_answers": ["Venice", "Amsterdam", "Berlin"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "How many federal states does Germany have?",
+    "correct_answer": "16",
+    "incorrect_answers": ["13", "32", "25"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of the following countries is within the Eurozone but outside of the Schengen Area?",
+    "correct_answer": "Cyprus",
+    "incorrect_answers": ["Malta", "Greece", "Portugal"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?",
+    "correct_answer": "Inuktitut",
+    "incorrect_answers": ["Inuinnaqtun", "Greenlandic", "Inupiat"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+    "correct_answer": "Constantinople",
+    "incorrect_answers": [
+      "H&uuml;davendigar",
+      "S&ouml;\u011f&uuml;t",
+      "Adrianople"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of the US state Nevada?",
+    "correct_answer": "Carson City",
+    "incorrect_answers": ["Las Vegas", "Henderson", "Reno"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many countries are larger than Australia?",
+    "correct_answer": "5",
+    "incorrect_answers": ["4", "3", "6"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What city is known as the Rose Capital of the World?",
+    "correct_answer": "Tyler, Texas",
+    "incorrect_answers": [
+      "San Diego, California",
+      "Miami, Florida",
+      "Anaheim, California"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital of British Columbia, Canada?",
+    "correct_answer": "Victoria",
+    "incorrect_answers": ["Vancouver", "Hope", "Kelowna"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
+    "correct_answer": "Grand Banks",
+    "incorrect_answers": ["Great Barrier Reef", "Mariana Trench", "Hudson Bay"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which one of these countries borders with Poland?",
+    "correct_answer": "Lithuania",
+    "incorrect_answers": ["France", "Norway", "Netherlands"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+    "correct_answer": "Kashmir",
+    "incorrect_answers": ["Andorra", "Gibraltar", "Quin"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which of these cities has a 4&deg; East longitude. ",
+    "correct_answer": "Amsterdam",
+    "incorrect_answers": ["Rio de Janero", "Toronto", "Hong Kong"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the capital city of Bermuda?",
+    "correct_answer": "Hamilton",
+    "incorrect_answers": ["Santo Dominigo", "San Juan", "Havana"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many rivers are in Saudi Arabia?",
+    "correct_answer": "0",
+    "incorrect_answers": ["1", "2", "3"]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which two modern-day countries used to be known as the region of Rhodesia between the 1890s and 1980?",
+    "correct_answer": "Zambia &amp; Zimbabwe",
+    "incorrect_answers": [
+      "Togo &amp; Benin",
+      "Lesotho &amp; Swaziland",
+      "Rwanda &amp; Burundi"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?",
+    "correct_answer": "Kaliningrad",
+    "incorrect_answers": ["Kazan", "Kursk", "Krasnodar"]
+  }
+]

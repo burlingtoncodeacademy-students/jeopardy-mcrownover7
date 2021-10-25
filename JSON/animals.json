@@ -1,0 +1,170 @@
+[
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+    "correct_answer": "New Zealand",
+    "incorrect_answers": ["South Africa", "Australia", "Madagascar"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What color/colour is a polar bear&#039;s skin?",
+    "correct_answer": "Black",
+    "incorrect_answers": ["White", "Pink", "Green"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Hippocampus is the Latin name for which marine creature?",
+    "correct_answer": "Seahorse",
+    "incorrect_answers": ["Dolphin", "Whale", "Octopus"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What scientific suborder does the family Hyaenidae belong to?",
+    "correct_answer": "Feliformia",
+    "incorrect_answers": ["Haplorhini", "Caniformia", "Ciconiiformes"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How many known living species of hyenas are there?",
+    "correct_answer": "4",
+    "incorrect_answers": ["8", "2", "6"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What scientific family does the Aardwolf belong to?",
+    "correct_answer": "Hyaenidae",
+    "incorrect_answers": ["Canidae", "Felidae", "Eupleridae"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
+    "correct_answer": "Nervousness",
+    "incorrect_answers": ["Excitement", "Aggression", "Exhaustion"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the scientific name of the cheetah?",
+    "correct_answer": "Acinonyx jubatus",
+    "incorrect_answers": ["Panthera onca", "Lynx rufus", "Felis catus"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the scientific name of the Budgerigar?",
+    "correct_answer": "Melopsittacus undulatus",
+    "incorrect_answers": [
+      "Nymphicus hollandicus",
+      "Pyrrhura molinae",
+      "Ara macao"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which animal was part of an Russian domestication experiment in 1959?",
+    "correct_answer": "Foxes",
+    "incorrect_answers": ["Pigeons", "Bears", "Alligators"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
+    "correct_answer": "Tasmania, Australia",
+    "incorrect_answers": [
+      "Baluchistan, Pakistan",
+      "Wallachia, Romania",
+      "Oregon, United States"
+    ]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is Grumpy Cat&#039;s real name?",
+    "correct_answer": "Tardar Sauce",
+    "incorrect_answers": ["Sauce", "Minnie", "Broccoli"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which class of animals are newts members of?",
+    "correct_answer": "Amphibian",
+    "incorrect_answers": ["Fish", "Reptiles", "Mammals"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The dish Fugu, is made from what family of fish?",
+    "correct_answer": "Pufferfish",
+    "incorrect_answers": ["Bass", "Salmon", "Mackerel"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the scientific name of the Common Chimpanzee?",
+    "correct_answer": "Pan troglodytes",
+    "incorrect_answers": ["Gorilla gorilla", "Pan paniscus", "Panthera leo"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the collective noun for bears?",
+    "correct_answer": "Sloth",
+    "incorrect_answers": ["Drove", "Tribe", "Husk"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the collective noun for rats?",
+    "correct_answer": "Mischief",
+    "incorrect_answers": ["Pack", "Race", "Drift"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the collective noun for vultures?",
+    "correct_answer": "Wake",
+    "incorrect_answers": ["Ambush", "Building", "Gaze"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+    "correct_answer": "Krill",
+    "incorrect_answers": ["Lobsters", "Shrimp", "Crabs"]
+  },
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+    "correct_answer": "Chordata",
+    "incorrect_answers": ["Echinodermata", "Annelida", "Placazoa"]
+  }
+]

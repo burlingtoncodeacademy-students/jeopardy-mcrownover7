@@ -1,0 +1,178 @@
+[
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many Chaos Emeralds can you collect in the first Sonic The Hedgehog?",
+    "correct_answer": "Six",
+    "incorrect_answers": ["Seven", "Five", "Eight"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the virus in &quot;Metal Gear Solid 1&quot;?",
+    "correct_answer": "FOXDIE",
+    "incorrect_answers": ["FOXENGINE", "FOXALIVE", "FOXKILL"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the 2002 video game &quot;Kingdom Hearts&quot;, how many Keyblades are usable?",
+    "correct_answer": "18",
+    "incorrect_answers": ["13", "16", "15"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the machine that fails and essentially dooms mankind in the beginning of the first Half-Life game?",
+    "correct_answer": "Anti-mass spectrometer",
+    "incorrect_answers": [
+      "Oscillation generator",
+      "Dark fusion reactor",
+      "Dark fusion resonator"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these is the name of a cut enemy from &quot;Half-Life 2&quot;?",
+    "correct_answer": "Hydra",
+    "incorrect_answers": ["Cthulu", "Spike", "Tremor"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When was Chapter 1 of the Source Engine mod &quot;Underhell&quot; released?",
+    "correct_answer": "September 1st, 2013",
+    "incorrect_answers": [
+      "March 3rd, 2011",
+      "September 12th, 2013",
+      "October 2nd, 2012"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which franchise had a special event hosted in the popular MMORPG Final Fantasy XIV: A Realm Reborn?",
+    "correct_answer": "Yo-kai Watch",
+    "incorrect_answers": ["Pok&eacute;mon", "Yu-gi-oh", "Buddyfight"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What level do you have to be to get a service medal on CS:GO?",
+    "correct_answer": "40",
+    "incorrect_answers": ["50", "30", "20"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the name of the world that the MMO &quot;RuneScape&quot; takes place in?",
+    "correct_answer": "Gielinor",
+    "incorrect_answers": ["Glindor", "Azeroth", "Zaros"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "&quot;The Potato Sack&quot; was a collection of indie games released on Steam in 2011 as a promotion for which game?",
+    "correct_answer": "Portal 2",
+    "incorrect_answers": ["Left 4 Dead 2", "Half-Life 3", "Dota 2"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In which &quot;Call of Duty&quot; game are the &quot;Apothicons&quot; introduced in the Zombies mode?",
+    "correct_answer": "Call Of Duty: Black Ops III",
+    "incorrect_answers": [
+      "Call Of Duty: Black Ops",
+      "Call Of Duty: World At War",
+      "Call Of Duty: Black Ops II"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;Call Of Duty: Zombies&quot;, which map features the &quot;Fly Trap&quot; easter egg?",
+    "correct_answer": "Der Riese",
+    "incorrect_answers": ["Tranzit", "Call Of The Dead", "Shi No Numa"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s main easter egg will reward you with the achievement, &quot;Little Lost Girl&quot;?",
+    "correct_answer": "Origins",
+    "incorrect_answers": ["Revelations", "Moon", "Tranzit"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "How many controllers could a Nintendo GameCube have plugged in at one time?",
+    "correct_answer": "4",
+    "incorrect_answers": ["8", "6", "2"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the Super Smash Bros. series, which character was the first one to return to the series after being absent from a previous game?",
+    "correct_answer": "Dr. Mario",
+    "incorrect_answers": ["Mewtwo", "Lucas", "Roy"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the 1980s, a service called Gameline allowed users to download games to what console?",
+    "correct_answer": "Atari 2600",
+    "incorrect_answers": [
+      "Sega Genesis",
+      "Nintendo Entertainment System",
+      "ColecoVision"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+    "correct_answer": "Corvus",
+    "incorrect_answers": ["Cabal", "Legion", "Icarus"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which weapon that was cut from the game &quot;Half Life 2&quot; was going to replace the crowbar?",
+    "correct_answer": "Ice Axe",
+    "incorrect_answers": ["Fire Axe", "Wrench", "Hunting Knife"]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which Nintendo 64 game did NOT have Luigi in it?",
+    "correct_answer": "Super Mario 64",
+    "incorrect_answers": ["Mario Party 2", "Paper Mario", "Super Smash Bros."]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "In the video game franchise &quot;Halo&quot;, what is the UNSC&#039;s main opposing faction called?",
+    "correct_answer": "The Covenant",
+    "incorrect_answers": ["The Reckoning", "The Peoples", "The Slaughterers"]
+  }
+]

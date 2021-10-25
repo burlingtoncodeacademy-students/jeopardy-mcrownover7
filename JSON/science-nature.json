@@ -1,0 +1,186 @@
+[
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+    "correct_answer": "Mitochondria",
+    "incorrect_answers": ["Nucleus", "Chloroplast", "Endoplasmic Reticulum"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the hottest planet in the Solar System?",
+    "correct_answer": "Venus",
+    "incorrect_answers": ["Mars", "Mercury", "Jupiter"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the first element on the periodic table?",
+    "correct_answer": "Hydrogen",
+    "incorrect_answers": ["Helium", "Oxygen", "Lithium"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+    "correct_answer": "Shin Splints",
+    "incorrect_answers": [
+      "Tennis Elbow",
+      "Carpal Tunnel",
+      "Housemaid&#039;s Knee"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+    "correct_answer": "Beryllium",
+    "incorrect_answers": ["Gallium", "Caesium", "Mercury"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of the following blood vessels carries deoxygenated blood?",
+    "correct_answer": "Pulmonary Artery",
+    "incorrect_answers": ["Pulmonary Vein", "Aorta", "Coronary Artery"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What polymer is used to make CDs, safety goggles and riot shields?",
+    "correct_answer": "Polycarbonate",
+    "incorrect_answers": ["Rubber", "Nylon", "Bakelite"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which one of these is scientific term for &quot;Brain Freeze&quot;?",
+    "correct_answer": "Sphenopalatine Ganglioneuralgia",
+    "incorrect_answers": [
+      "Hyacinthoides Italica",
+      "Amaranthus Retroflexus",
+      "Amblyomma Americanum"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which is the most abundant element in the universe?",
+    "correct_answer": "Hydrogen",
+    "incorrect_answers": ["Helium", "Lithium", "Oxygen"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The core of the Sun can reach which temperature?",
+    "correct_answer": "27&deg; Million F (15&deg; Million C)",
+    "incorrect_answers": [
+      "938,000&deg; F (521093.3&deg; C)",
+      "8&deg; Billion F (&deg;4.4 Billion C)",
+      "Absolute Zero (Both F and C)"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+    "correct_answer": "Interphase",
+    "incorrect_answers": ["Prophase", "Stasis", "Telophase"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "At what temperature does water boil?",
+    "correct_answer": "212&deg;F",
+    "incorrect_answers": ["200&deg;F", "181&deg;F", "178&deg;F"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What does LASER stand for?",
+    "correct_answer": "Light amplification by stimulated emission of radiation",
+    "incorrect_answers": [
+      "Lite analysing by stereo ecorazer",
+      "Light amplifier by standby energy of radio",
+      "Life antimatter by standing entry of range"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "How much radiation does a banana emit?",
+    "correct_answer": "0.1 Microsievert",
+    "incorrect_answers": [
+      "0.3 Microsievert",
+      "0.5 Microsievert",
+      "0.7 Microsievert"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Psychology, which need appears highest in the &quot;Maslow&#039;s hierarchy of needs&quot; pyramid?",
+    "correct_answer": "Esteem",
+    "incorrect_answers": ["Love", "Safety", "Physiological"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+    "correct_answer": "Cat",
+    "incorrect_answers": ["Dog", "Bat", "Butterfly"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the largest living organism currently known to man?",
+    "correct_answer": "Honey Fungus",
+    "incorrect_answers": ["Blue Whale", "Redwood Tree", "The Coral Reef"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "The Western Lowland Gorilla is scientifically know as?",
+    "correct_answer": "Gorilla Gorilla Gorilla",
+    "incorrect_answers": [
+      "Gorilla Gorilla Diehli",
+      "Gorilla Beringei Graueri",
+      "Gorilla Beringei Beringei"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Down Syndrome is usually caused by an extra copy of which chromosome?",
+    "correct_answer": "21",
+    "incorrect_answers": ["23", "15", "24"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The medial meniscus forms which part of what joint in the human body?",
+    "correct_answer": "Knee",
+    "incorrect_answers": ["Elbow", "Ankle", "Shoulder"]
+  }
+]
